@@ -1,0 +1,148 @@
+{
+  "Books": [
+    {
+      "id": 1,
+      "title": "Loving Your Business",
+      "author": "Debbie King",
+      "time": "13",
+      "reads": "",
+      "image": "/assets/6.png",
+      "status": "currentlyReading",
+      "category": "Entrepreneurship",
+      "progress": 10,
+      "Type": "TrendingBlinks"
+    },
+    {
+      "id": 2,
+      "title": "The Lonely Century",
+      "author": "Noreena Hertz",
+      "time": "15",
+      "reads": "",
+      "image": "/assets/7.png",
+      "status": "finished",
+      "progress": 100,
+      "category": "Entrepreneurship",
+      "Type": "Just added"
+    },
+    {
+      "id": 3,
+      "title": "Eat Better, Feel Better",
+      "author": "Giada De Laurentiis",
+      "time": "13",
+      "reads": "1.9k",
+      "image": "/assets/8.png",
+      "status": "currentlyReading",
+      "progress": 30,
+      "category": "Entrepreneurship",
+      "Type": "Just added"
+    },
+    {
+      "id": 4,
+      "title": "Dropshipping",
+      "author": "James Moore",
+      "time": "12",
+      "reads": "",
+      "image": "/assets/9.png",
+      "status": "currentlyReading",
+      "progress": 10,
+      "category": "Science",
+      "Type": "Just added"
+    },
+    {
+      "id": 5,
+      "title": "Being Boss",
+      "author": "Kathleen Shannon and Emily...",
+      "time": "13",
+      "reads": "",
+      "image": "/assets/10.png",
+      "status": "currentlyReading",
+      "progress": 30,
+      "category": "Science",
+      "Type": "TrendingBlinks"
+    },
+    {
+      "id": 6,
+      "title": "Beyond Entrepreneurship",
+      "author": "Jim Collins & Bill Lazier",
+      "time": "13",
+      "reads": "1.9k",
+      "image": "/assets/2.png",
+      "status": "currentlyReading",
+      "progress": 10,
+      "category": "Nature&Environment",
+      "Type": "TrendingBlinks"
+    },
+    {
+      "id": 7,
+      "title": "Beyond Entrepreneurship 2.0",
+      "author": "Jim Collins & Bill Lazier",
+      "time": "14",
+      "reads": "1.9k",
+      "image": "/assets/2.png",
+      "status": "",
+      "progress": 100,
+      "category": "Science",
+      "Type": "FeaturedAudioBlinks"
+    },
+    {
+      "id": 8,
+      "title": "The Fate of Food",
+      "author": "Amanda Little",
+      "time": "12",
+      "reads": "16k",
+      "image": "/assets/4.png",
+      "status": "currentlyReading",
+      "progress": 30,
+      "category": "Science",
+      "Type": "TrendingBlinks"
+    },
+    {
+      "id": 9,
+      "title": "Lives of the Stoics",
+      "author": "Ryan Holiday, Stephen Hansel",
+      "time": "13",
+      "reads": "",
+      "image": "/assets/5.png",
+      "status": "finished",
+      "progress": 100,
+      "category": "Science",
+      "Type": "TrendingBlinks"
+    },
+    {
+      "id": 10,
+      "title": "Bring your Human to work",
+      "author": "Erica Keswin",
+      "time": "13",
+      "reads": "",
+      "image": "/assets/1.png",
+      "status": "currentlyReading",
+      "progress": 10,
+      "category": "Entrepreneurship",
+      "Type": "FeaturedAudioBlinks"
+    },
+    {
+      "id": 11,
+      "title": "Doesn't Hurt to Ask",
+      "author": "Trey Gowdy",
+      "time": "13",
+      "reads": "1.9",
+      "image": "/assets/3.png",
+      "status": "finished",
+      "progress": 100,
+      "category": "Entrepreneurship",
+      "Type": "FeaturedAudioBlinks"
+    },
+    {
+      "id": 12,
+      "title": "Employee to Entrepreneur",
+      "author": "Steve Glaveski",
+      "time": "14",
+      "reads": "1.9",
+      "image": "/assets/11.png",
+      "status": "currentlyReading",
+      "progress": 30,
+      "category": "Entrepreneurship",
+      "Type": "TrendingBlinks"
+    }
+  ]
+}
